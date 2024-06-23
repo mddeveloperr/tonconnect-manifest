@@ -1,0 +1,12 @@
+{
+    "name": "Dummy App",
+    "description": "This is a dummy app for testing purposes.",
+    "url": "https://your-username.github.io/tonconnect-manifest/",
+    "icons": [
+        {
+            "src": "https://your-username.github.io/tonconnect-manifest/icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
